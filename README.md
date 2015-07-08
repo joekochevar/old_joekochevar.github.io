@@ -1,2 +1,2 @@
 # joekochevar.github.io
-This is just a test.
+This is the repository for my personal website, available at joekochevar.com
